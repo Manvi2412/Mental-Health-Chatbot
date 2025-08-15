@@ -76,9 +76,9 @@ mental-health-chatbot/
 
 ### Mood Detection Logic
 Preprocessing:
-Lowercasing
-Removing stopwords
-Tokenization
+Lowercasing,
+Removing stopwords,
+Tokenization,
 Sentiment Analysis:
 Classifies messages into Positive, Negative, or Neutral.
 Response Generation:
@@ -92,10 +92,10 @@ USA: 988 Suicide and Crisis Lifeline — Call or Text 988
 UK: Samaritans — 116 123 (freephone)
 
 ### Future Improvements
-Add multilingual support
-Integrate with a transformer-based conversational model
-Store chat history in a database for analysis
-Personalize responses based on user profile
+Add multilingual support,
+Integrate with a transformer-based conversational model,
+Store chat history in a database for analysis,
+Personalize responses based on user profile.
 
 ### License
 This project is licensed under the MIT License.
